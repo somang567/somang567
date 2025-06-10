@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Transparent&text=Jun%27s%20DevelopStation%20%F0%9F%92%BB&fontAlign=30&fontSize=40&desc=Use%20theme&descAlign=70&descAlignY=40&theme=default&height=150">
 </p>
 
-<table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
+<table style="width:50%; border:none; border-collapse:collapse; background-color:transparent;">
   <tr>
     <td style="width:30%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
       <img src="https://github.com/user-attachments/assets/6097649c-3f20-48dd-99a4-77ba1b930ffc" width="100%" style="border-radius: 10px; border:none;">
