@@ -19,9 +19,9 @@
 </table>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somang567&layout=compact&theme=dark&hide_title=true&hide_border=true&card_width=350">
+  <img src="https://github-readme-stats.vercel.app/api?username=somang567&hide=stars,contribs&count_private=true&show_icons=true&&theme=dark">
 </p>
-
+<p></p>
 <h2><img src="https://img.shields.io/badge/기술스택-lightgrey?style=flat&logo=gear&logoColor=white" alt="기술스택 아이콘"> Tech Skill🧑🏻‍💻</h2>
 
 <h3>✓ Frontend</h3>
