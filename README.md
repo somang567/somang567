@@ -5,7 +5,7 @@
 <table style="width:50%; border:none; border-collapse:collapse; background-color:transparent;">
   <tr>
     <td style="width:30%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
-      <img src="https://github.com/user-attachments/assets/6097649c-3f20-48dd-99a4-77ba1b930ffc" width="380px" height="380px"style="border-radius: 50%; border:none;">
+      <img src="https://github.com/user-attachments/assets/6097649c-3f20-48dd-99a4-77ba1b930ffc" width="500px" height="380px"style="border-radius: 50%; border:none;">
     </td>
     <td style="width:70%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent;">
       <h3>1. 자기소개글</h3>
