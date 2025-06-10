@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Transparent&text=Jun%27s%20DevelopStation%20%F0%9F%92%BB&fontAlign=&fontSize=40&desc=Welcome%20to%20here!%20Beckend%20Developer%20Mr.Jun&&descAlignY=70&theme=dark&height=150">
+  <img src="https://capsule-render.vercel.app/api?type=Transparent&text=Jun%27s%20DevelopStation%20%F0%9F%92%BB&fontAlign=&fontSize=40&animation=scaleIn&desc=Welcome%20to%20here!%20Beckend%20Developer%20Mr.Jun&&descAlignY=70&theme=dark&height=150">
 </p>
 
 <h1>Introduce</h1>
