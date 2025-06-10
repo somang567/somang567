@@ -3,9 +3,9 @@
 </p>
 
 <h1>Introduce</h1>
-<table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
+<table style="width:100%; border:none; border-collapse:collapse">
   <tr>
-    <td style="width:30%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
+    <td style="width:30%;">
       <img src="https://github.com/user-attachments/assets/6097649c-3f20-48dd-99a4-77ba1b930ffc" width="200px" style="border-radius: 10px; border:none;" alt="프로필 사진">
     </td>
     <td style="width:70%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent;">
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstap">
 </p>
 <br>
-<br> <h3>✓Backend</h3>
+<br> <h3>✓ Backend</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
