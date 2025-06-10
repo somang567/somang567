@@ -4,7 +4,7 @@
 </p>
 
 <!-- 2단 구성 영역 -->
-<div align="center">
+<div align="left">
 
   <!-- 왼쪽: 프로필 사진 -->
   <div style="display: inline-block; vertical-align: top; margin-right: 50px;">
@@ -16,16 +16,4 @@
     <h3>1. 자기소개글</h3>
     <p>안녕하세요, 백엔드 개발자 지망생 Jun입니다. 꾸준히 학습하고 성장하는 개발자가 되기 위해 노력하고 있습니다.</p>
     <hr>
-
-    <h3>2. 프로젝트 경험</h3>
-    <ul>
-      <li>마트 유통 시스템 (Spring Boot, MySQL)</li>
-      <li>쿠폰 발급 API (Toss Payments 과제)</li>
-    </ul>
-    <hr>
-
-    <h3>3. 연락처</h3>
-    <p>Email: somang567@gmail.com<br>GitHub: github.com/somang567</p>
-  </div>
-
 </div>
