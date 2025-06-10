@@ -3,12 +3,12 @@
 </p>
 
 <h1>Introduce</h1>
-<table style="width:100%; border:none; border-collapse:collapse">
+<table style="width:100%; border:none; border-collapse:collapse;">
   <tr>
-    <td style="width:30%;">
+    <td style="width:30%; vertical-align: top; padding-right: 20px;">
       <img src="https://github.com/user-attachments/assets/6097649c-3f20-48dd-99a4-77ba1b930ffc" width="200px" style="border-radius: 10px; border:none;" alt="프로필 사진">
     </td>
-    <td style="width:70%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent;">
+    <td style="width:70%; vertical-align: top; padding-left: 20px;">
       <h3>Name : KIM TAE JUN</h3>
       <hr>
       <h3>Birth Date : 1999.09.06</h3>
@@ -17,7 +17,12 @@
     </td>
   </tr>
 </table>
-<h2>Tech Skill🧑🏻‍💻</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_title=true&hide_border=true&card_width=350" alt="GitHub Top Languages">
+</p>
+
+<h2><img src="https://img.shields.io/badge/기술스택-lightgrey?style=flat&logo=gear&logoColor=white" alt="기술스택 아이콘"> Tech Skill🧑🏻‍💻</h2>
 
 <h3>✓ Frontend</h3>
 <p>
@@ -26,28 +31,26 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstap">
 </p>
-<br>
-<br> <h3>✓ Backend</h3>
+
+<h3>✓ Backend</h3>
 <p>
-  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/SpringBoot-13C100?style=for-the-badge&logo=spring%20boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
 </p>
-<br>
 
 <h3>✓ DB</h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
 </p>
-<br>
 
 <h3>✓ FTP</h3>
 <p>
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" alt="FileZilla">
 </p>
-<br>
 
 <h3>✓ Tools</h3>
 <p>
@@ -55,14 +58,15 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
 </p>
-<br>
 
 <h3>✓ Configuration</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black" alt="Notion">
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=black" alt="Notion">
 </p>
+
 <h2>Educational Books📚</h2>
 <table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
   <tr>
