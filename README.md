@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Transparent&text=Jun%27s%20DevelopStation%20%F0%9F%92%BB&fontAlign=30&fontSize=40&desc=Use%20theme&&descAlignY=5&theme=default&height=150">
+  <img src="https://capsule-render.vercel.app/api?type=Transparent&text=Jun%27s%20DevelopStation%20%F0%9F%92%BB&fontAlign=30&fontSize=40&desc=Use%20theme&&descAlignY=40&theme=default&height=150">
 </p>
 
 <h1>Introduce</h1>
