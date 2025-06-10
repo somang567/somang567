@@ -19,7 +19,7 @@
 </table>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_title=true&hide_border=true&card_width=350" alt="GitHub Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somang567&layout=compact&theme=dark&hide_title=true&hide_border=true&card_width=350">
 </p>
 
 <h2><img src="https://img.shields.io/badge/기술스택-lightgrey?style=flat&logo=gear&logoColor=white" alt="기술스택 아이콘"> Tech Skill🧑🏻‍💻</h2>
