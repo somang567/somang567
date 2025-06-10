@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Rect&color=random&height=150&section=header&text=Jun%27s%20DevelopStation&fontSize=60"/>
+<img src="https://capsule-render.vercel.app/api?type=Transparent&color=random&height=150&section=header&text=Jun%27s%20DevelopStation&fontSize=60"/>
 <h1 align="left" style="font-family: 'Paperlogy' , sans-serif;">Introduce</h1>
 <table align="center" style="width:100%; border:none; border-collapse:collapse; background-color:transparent;"> <tr>
     <td style="width:50%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;"> <img src="https://github.com/user-attachments/assets/6097649c-3f20-48dd-99a4-77ba1b930ffc" height="390" width="380" border="1px solid black">
