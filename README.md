@@ -5,23 +5,24 @@
 <h1>Introduce</h1>
 <div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
 
-<table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
+<table align="center"style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
   <tr>
     <td style="width:50%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
       <img src="https://github.com/user-attachments/assets/6097649c-3f20-48dd-99a4-77ba1b930ffc" width="200px" style="border-radius: 10px; border:none;" alt="프로필 사진">
     </td>
     <td style="width:50%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent;">
       <div style="margin-bottom: 10px;">
-        <h3>1. 이름 : KIM TAE JUN</h3>
+        <h3>Name : KIM TAE JUN</h3>
         <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
       <div style="margin-bottom: 10px;">
-        <h3>2. 나이 : 1999.09.06</h3>
+        <h3>Birth: 1999.09.06</h3>
         <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
       <div style="margin-bottom: 10px;">
-        <h3>3. 이메일 : somang567@naver.com</h3>
+        <h3>Email : somang567@naver.com</h3>
         <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
       <div style="margin-bottom: 10px;">
-        <h3>4. SNS : </h3>
+        <h3>SNS : <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+        </h3>
         <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
     </td>
   </tr>
@@ -33,7 +34,7 @@
 <table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
   <tr>
     <td style="width:50%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
-      <h3>✓ Frontend</h3>
+      <h3>Frontend</h3>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
