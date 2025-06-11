@@ -52,7 +52,7 @@
 <div style="clear: both;"></div>
 
 <h1>교육이력 📑</h1>
-<table align="left" style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
+<table>
   <tr align="center"> 
     <td>교육제목</td>
     <td>교육기간</td>
