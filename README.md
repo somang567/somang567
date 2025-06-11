@@ -108,6 +108,8 @@
 </tr>
 </table>
 
+<br>
+
 <h3 align="center">Tech Stack🧑🏻‍💻</h3>
 
 <table align="center">
@@ -154,6 +156,8 @@
     </tr>
   </tbody>
 </table>
+
+<br>
 
 <h3 align="center">Educational Books📚</h3>
 <table>
