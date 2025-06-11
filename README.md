@@ -2,30 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=Transparent&text=Jun%27s%20DevelopStation%20%F0%9F%92%BB&fontAlign=&fontSize=40&animation=twinkling&desc=Welcome%20to%20My%20Repository!%20Backend%20Developer%20Mr.Jun&&descAlignY=70&theme=dark&height=150" alt="Jun's DevelopStation Header">
 </p>
 
-<h1>Profile</h1>
+<h1>Introduce</h1>
 <div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
 
 <table align="center" style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
   <tr>
-    <td style="width:50%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
+    <td style="width:100%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
       <img src="https://github.com/user-attachments/assets/6097649c-3f20-48dd-99a4-77ba1b930ffc" width="200px" style="border-radius: 10px; border:none;" alt="프로필 사진">
     </td>
-    <td style="width:50%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent; text-align:left;">
+    <td style="width:22%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent; text-align:left;">
       <div style="margin-bottom: 10px;">
         <h3>Name : KIM TAE JUN</h3>
-        <div style="width: 150px; border-bottom: 1px dashed #999;"></div>
       </div>
       <div style="margin-bottom: 10px;">
         <h3>Birth: 1999.09.06</h3>
-        <div style="width: 150px; border-bottom: 1px dashed #999;"></div>
       </div>
       <div style="margin-bottom: 10px;">
         <h3>Email : <a href="mailto:somang567@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"></a></h3>
-        <div style="width: 150px; border-bottom: 1px dashed #999;"></div>
       </div>
       <div style="margin-bottom: 10px;">
         <h3>Contact : <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a></h3>
-        <div style="width: 150px; border-bottom: 1px dashed #999;"></div>
       </div>
     </td>
   </tr>
@@ -62,13 +58,13 @@
     <td>교육기관</td>
   </tr>
   <tr>
-    <td style="width:10%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent; font-weight:bold;">
+    <td style="width:22%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent; font-weight:bold;">
       <p align="center">자바 백엔드 6개월 교육과정</p>
     </td>
-    <td style="width:10%;">
+    <td style="width:45%;">
       <p align="center">2024.05.27 ~ 2024.11.15</p>
     </td>
-    <td style="width: 60%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
+    <td style="width: 15%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
      <ul>
         <li>Java 기초 문법 학습</li>
         <li>JSP , JSTL 문법 학습</li>
