@@ -70,7 +70,7 @@
       <h3>✓ Configuration</h3>
       <p>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=black" alt="Notion">
       </p>
@@ -88,7 +88,7 @@
 <h3>( 프로젝트 Pin )</h3>
 
 <h2>Educational Books📚</h2>
-<table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
+<table style="width:100%; >
   <tr>
     <td style="width:20%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent; font-weight:bold;">오픈 소스 소프트웨어로<br>실습하는 소프트웨어 공학</td>
     <td style="width:80%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
