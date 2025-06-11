@@ -48,8 +48,7 @@
     <td><p>졸업</p></td>
   </tr>
 </table>
-<hr>
-<h1 align="left" style="width:100%">교육이력 📑</h1>
+<h1 style="width:100%">교육이력 📑</h1>
 <table align="left" style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
   <tr align="center"> 
     <td>교육제목</td>
