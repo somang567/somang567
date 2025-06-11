@@ -53,7 +53,7 @@
   </tr>
 </table>
 <hr>
-<h2 align="left">교육이력 📑</h2>
+<h2 align="left" style="width:100%">교육이력 📑</h2>
 <table align="left" style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
   <tr align="center"> 
     <td>교육제목</td>
