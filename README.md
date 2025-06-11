@@ -14,8 +14,8 @@
           <td align="center" style="width:100%;">
             <h4>KIM TAE JUN<h4><hr>
             <h4>1999.09.06<h4><hr>
-            <h4>Email : <a href="mailto:somang567@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"></a><h4><hr>
-            <h4>Contact : <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a><h4>
+            <h4>Email : <a href="mailto:somang567@naver.com" target="_blank"><img src="https://img.shields.io/badge/somang567@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"></a><h4><hr>
+            <h4>Contact : <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/xroawlns-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a><h4>
           </td>
         </tr>
       </table>
