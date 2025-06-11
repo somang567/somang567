@@ -1,71 +1,91 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Transparent&text=Jun%27s%20DevelopStation%20%F0%9F%92%BB&fontAlign=&fontSize=40&animation=twinkling&desc=Welcome%20to%20My%20Repository!%20Backend%20Developer%20Mr.Jun&&descAlignY=70&theme=dark&height=150" alt="Jun's DevelopStation Header">
+  <img src="https://capsule-render.vercel.app/api?type=Transparent&text=Jun%27s%20DevelopStation%20%F0%9F%92%BB&fontAlign=&fontSize=40&animation=twinkling&desc=Welcome%20to%20here!%20Backend%20Developer%20Mr.Jun&&descAlignY=70&theme=dark&height=150" alt="Jun's DevelopStation Header">
 </p>
 
 <h1>Introduce</h1>
-<table style="width:100%; border:none; border-collapse:collapse;">
+<div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
+
+<table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
   <tr>
-    <td style="width:30%; vertical-align: top; padding-right: 20px;">
+    <td style="width:50%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
       <img src="https://github.com/user-attachments/assets/6097649c-3f20-48dd-99a4-77ba1b930ffc" width="200px" style="border-radius: 10px; border:none;" alt="프로필 사진">
     </td>
-    <td style="width:70%; vertical-align: top; padding-left: 20px;">
-      <h3>Name : KIM TAE JUN</h3>
-      <hr>
-      <h3>Birth Date : 1999.09.06</h3>
-      <hr>
-      <h3>Contact : somang567@naver.com</h3>
+    <td style="width:50%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent;">
+      <div style="margin-bottom: 10px;">
+        <h3>1. 이름 : KIM TAE JUN</h3>
+        <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
+      <div style="margin-bottom: 10px;">
+        <h3>2. 나이 : 1999.09.06</h3>
+        <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
+      <div style="margin-bottom: 10px;">
+        <h3>3. 이메일 : somang567@naver.com</h3>
+        <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
+      <div style="margin-bottom: 10px;">
+        <h3>4. SNS : </h3>
+        <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
     </td>
   </tr>
 </table>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=somang567&hide=stars,contribs&count_private=true&show_icons=true&&theme=dark">
-</p>
-<p></p>
-<h2><img src="https://img.shields.io/badge/기술스택-lightgrey?style=flat&logo=gear&logoColor=white" alt="기술스택 아이콘"> Tech Skill🧑🏻‍💻</h2>
+<h2>Tech Stacks ( Emoji )</h2>
+<div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
 
-<h3>✓ Frontend</h3>
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstap">
-</p>
+<table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
+  <tr>
+    <td style="width:50%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
+      <h3>✓ Frontend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstap">
+      </p>
+    </td>
+    <td style="width:50%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent;">
+      <h3>✓ Backend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+        <img src="https://img.shields.io/badge/SpringBoot-13C100?style=for-the-badge&logo=spring%20boot&logoColor=white" alt="Spring Boot">
+        <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:50%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
+      <h3>✓ DB</h3>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+      </p>
+    </td>
+    <td style="width:50%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent;">
+      <h3>✓ Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
+        <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
+      </p>
+      <h3>✓ Configuration</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+        <img src="https://img.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=black" alt="Notion">
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h3>✓ Backend</h3>
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/SpringBoot-13C100?style=for-the-badge&logo=spring%20boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
-</p>
+<div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
+<h3>( 기타 학력 및 교육사항 )</h3>
 
-<h3>✓ DB</h3>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-</p>
+<div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
+<h3>( 레포지토리 stats.. + 기타 통계 API )</h3>
 
-<h3>✓ FTP</h3>
-<p>
-  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" alt="FileZilla">
-</p>
-
-<h3>✓ Tools</h3>
-<p>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
-</p>
-
-<h3>✓ Configuration</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=black" alt="Notion">
-</p>
+<div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
+<h3>( 프로젝트 Pin )</h3>
 
 <h2>Educational Books📚</h2>
 <table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
