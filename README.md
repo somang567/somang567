@@ -27,11 +27,11 @@
     <td>전공</td>
     <td>졸업여부</td>
   </tr>
-  <tr align="center">
+  <tr align="center" style="font-size:15px;">
     <td>숭실고등학교</td> <td>2016.03.01 ~ 2019.02.14</td> <td>-</td>
     <td>졸업</td>
   </tr>
-  <tr align="center">
+  <tr align="center" style="font-size:15px;">
     <td>단국대학교(죽전)</td>
     <td>2019.03.01 ~ 2024.02.20</td>
     <td>컴퓨터공학과</td>
