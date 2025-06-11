@@ -75,11 +75,11 @@
 <table align="center">
   <thead>
     <tr> 
-      <th align="center">✓ Frontend</th>
-      <th align="center">✓ Backend</th>
-      <th align="center">✓ DB</th>
-      <th align="center">✓ Tools</th>
-      <th align="center">✓ Configuration</th> 
+      <th align="center">🖥️ Frontend</th>
+      <th align="center">🧑🏻‍💻 Backend</th>
+      <th align="center">📊 DB</th>
+      <th align="center">🧰 Tools</th>
+      <th align="center">⚙️ Configuration</th> 
     </tr>
   </thead>
   
