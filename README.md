@@ -80,8 +80,8 @@
   </tr>
 </table>
 
-<br><br><br><br><br><br><br>
-                  
+<br>
+          
 <h1>Tech Stack🧑🏻‍💻</h1>
 <div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
 
