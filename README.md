@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Transparent&text=Jun%27s%20DevelopStation%20%F0%9F%92%BB&fontAlign=&fontSize=40&animation=twinkling&desc=Welcome%20to%20My%20Repository!%20Backend%20Developer%20Mr.Jun&&descAlignY=70&theme=dark&height=150" alt="Jun's DevelopStation Header">
 </p>
 
-<h1>Introduce</h1>
+<h3>Introduce</h3>
 <table alingn="center">
   <tr>
     <td width="50">
@@ -38,7 +38,8 @@
 </table>
 
   
-<br> <h1>학력사항 🏫</h1>
+<br> 
+<h3>학력사항 🏫</h3>
 <table align="center">
   <tr align="center">
     <td>학교명</td>
@@ -60,9 +61,8 @@
   </tr>
 </table>
 
-<div style="clear: both;"></div>
 
-<h1>교육이력 📑</h1>
+<h3>교육이력 📑</h3>
 <table align="center">
   <tr align="center">
     <td>교육제목</td>
@@ -91,7 +91,7 @@
 
 <br>
 
-<h1>Projects 🔥</h1>
+<h3>Projects 🔥</h3>
 
 <table align="center">
 <tr>
@@ -107,7 +107,7 @@
 </tr>
 </table>
 
-<h1>Tech Stack🧑🏻‍💻</h1>
+<h3>Tech Stack🧑🏻‍💻</h3>
 
 <table align="center">
   <thead>
@@ -154,7 +154,7 @@
   </tbody>
 </table>
 
-<h2>Educational Books📚</h2>
+<h3>Educational Books📚</h3>
 <table>
   <tr>
     <td>
