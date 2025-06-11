@@ -5,9 +5,9 @@
 <h1>Introduce</h1>
 <div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
 
-<table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
+<table align="center">
   <tr>
-    <td style="width:100%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
+    <td>
       <img src="https://github.com/user-attachments/assets/6097649c-3f20-48dd-99a4-77ba1b930ffc" width="200px" style="border-radius: 10px; border:none;" alt="프로필 사진">
     </td>
     <td style="width:22%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent; text-align:left;">
