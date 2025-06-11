@@ -5,150 +5,151 @@
 <h1>Introduce</h1>
 <div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
 
-<table align="center" style="width: auto; border: none; border-collapse: collapse; background-color: transparent;">
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="vertical-align: top; padding-right: 20px; border: none; background-color: transparent;">
-      <img src="https://github.com/user-attachments/assets/54c60239-ba98-4aa6-83e0-73d396c620c9" width="100%" style="border-radius: 10px;" alt="프로필 사진">
+    <td align="right">
+      <img src="https://github.com/user-attachments/assets/54c60239-ba98-4aa6-83e0-73d396c620c9" width="150" alt="프로필 사진">
     </td>
-    <td style="vertical-align: top; text-align: left; border: none; background-color: transparent; padding-left: 20px;">
-        <h3>Name : KIM TAE JUN</h3>
-        <h3>Birth: 1999.09.06</h3>
-        <h3>Email : <a href="mailto:somang567@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"></a></h3>
-        <h3>Contact : <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a></h3>
+    <td width="40"></td> <td align="left">
+      <h3>Name : KIM TAE JUN</h3>
+      <h3>Birth: 1999.09.06</h3>
+      <h3>Email : <a href="mailto:somang567@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"></a></h3>
+      <h3>Contact : <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a></h3>
     </td>
   </tr>
 </table>
 
-<br> 
-
-<h1>학력사항 🏫</h1>
-<table align="center">
-  <tr align="center">
-    <td>학교명</td>
-    <td>재학기간</td>
-    <td>전공</td>
-    <td>졸업여부</td>
-  </tr>
-  <tr align="center">
-    <td>숭실고등학교<</td>
-    <td>2016.03.01 ~ 2019.02.14</p></td>
-    <td>-</td>
-    <td>졸업</td>
-  </tr>
-   <tr align="center">
-    <td>단국대학교(죽전)</td>
-    <td>2019.03.01 ~ 2024.02.20</td>
-    <td>컴퓨터공학과</td>
-    <td>졸업</td>
-  </tr>
+<br> <h1>학력사항 🏫</h1>
+<table align="center" border="0" cellpadding="5" cellspacing="0">
+  <tr align="center">
+    <td>학교명</td>
+    <td>재학기간</td>
+    <td>전공</td>
+    <td>졸업여부</td>
+  </tr>
+  <tr align="center">
+    <td>숭실고등학교</td> <td>2016.03.01 ~ 2019.02.14</td> <td>-</td>
+    <td>졸업</td>
+  </tr>
+  <tr align="center">
+    <td>단국대학교(죽전)</td>
+    <td>2019.03.01 ~ 2024.02.20</td>
+    <td>컴퓨터공학과</td>
+    <td>졸업</td>
+  </tr>
 </table>
 
 <div style="clear: both;"></div>
 
 <h1>교육이력 📑</h1>
-<table align="center">
-  <tr align="center"> 
-    <td>
-      교육제목
+<table align="center" border="0" cellpadding="5" cellspacing="0">
+  <tr align="center">
+    <td>교육제목</td>
+    <td>교육기간</td>
+    <td>교육내용</td>
+    <td>교육기관</td>
+  </tr>
+  <tr>
+    <td align="center">
+      자바 백엔드 6개월 교육과정
     </td>
-    <td>
-      교육기간
+    <td align="center">
+      2024.05.27 ~ 2024.11.15
     </td>
-    <td>
-      교육내용
+    <td align="center">
+        Java 기초 문법 학습 <br>
+        JSP , JSTL 문법 학습 <br>
+        Spring , Springboot 사용법 및 Maven 프로젝트 실습 <br>
+        팀 프로젝트<2030세대를 위한 셀프인테리어서비스>
     </td>
-    <td>
-      교육기관
+    <td align="center">
+      한국정보교육원
     </td>
-  </tr>
-  <tr>
-    <td>
-      자바 백엔드 6개월 교육과정
-    </td>
-    <td>
-      2024.05.27 ~ 2024.11.15
-    </td>
-    <td>
-        Java JSP , Spring 학습
-    </td>
-    <td>
-      한국정보교육원
-    </td>
-  </tr>
+  </tr>
 </table>
 
 <br>
-          
+
 <h1>Tech Stack🧑🏻‍💻</h1>
-<div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
 
 <table align="center" border="0" cellpadding="5" cellspacing="0">
-  <tr> <td valign="top"> <h3>✓ Frontend</h3>
+  <thead>
+    <tr> <th align="center">✓ Frontend</th>
+      <th align="center">✓ Backend</th>
+      <th align="center">✓ DB</th>
+      <th align="center">✓ Tools</th>
+      <th align="center">✓ Configuration</th> </tr>
+  </thead>
+  <tbody>
+    <tr> <td valign="top">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"><br>
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstap">
-    </td>
-    <td valign="top"> <h3>✓ Backend</h3>
-      <p>
+      </td>
+      <td valign="top">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"><br>
         <img src="https://img.shields.io/badge/SpringBoot-13C100?style=for-the-badge&logo=spring%20boot&logoColor=white" alt="Spring Boot"><img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
-      </p>
-    </td>
-  </tr>
-  <tr> <td valign="top"> <h3>✓ DB</h3>
-      <p>
+      </td>
+      <td valign="top">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-      </p>
-    </td>
-    <td valign="top"> <h3>✓ Tools</h3>
-      <p>
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=black" alt="Notion">
-      </p>
-    </td>
-  </tr>
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      </td>
+      <td valign="top">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=black" alt="Notion">
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-
 <h2>Educational Books📚</h2>
-<table>
-  <tr>
-    <td>오픈 소스 소프트웨어로<br>실습하는 소프트웨어 공학</td>
-    <td></td>
-      <ul>
-        <li>소프트웨어 개발 모델</li>
-        <li>폭포수, 나선형, 프로토타입, 애자일등을 학습</li>
-        <li>스크럼 제품백로그 등 개발 프로세스에 대해 학습</li>
-        <li>개발자 인력에 따른 개발 주기 계산 및 인건비 계산 등 학습</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>데이터베이스 시스템</td>
-    <td>
-      <ul>
-        <li>DDL, DCL, DML 등에 대해 학습</li>
-        <li>Join, Outer Join, Inner Join 학습</li>
-        <li>객체 모델링, 동적 모델링, 개념 모델링을 학습</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>Introduce to Algorithm</td>
-    <td>
-      <ul>
-        <li>자료구조와 알고리즘 정의와 의미의 차이를 학습</li>
-        <li>Time Complexity 계산법에 대해 학습</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>클라우드 컴퓨팅</td>
-    <td>
-      <ul>
-        <li>Docker 사용법 및 k8s를 실습하여 심화 학습 및 응용</li>
-        <li>클라우드단에 사용되는 모놀리식 아키텍처와<br>더 발전된 MSA의 차이점을 학습</li>
-        <li>Scale-up Scale-out등의 기본적인 개념을 학습</li>
-      </ul>
-    </td>
-  </tr>
+<table align="center">
+  <tr>
+    <td align="center" width="20%">
+      <b>오픈 소스 소프트웨어로<br>실습하는 소프트웨어 공학</b>
+    </td>
+    <td align="center" align="left" width="80%">
+      <ul>
+        <li>소프트웨어 개발 모델</li>
+        <li>폭포수, 나선형, 프로토타입, 애자일등을 학습</li>
+        <li>스크럼 제품백로그 등 개발 프로세스에 대해 학습</li>
+        <li>개발자 인력에 따른 개발 주기 계산 및 인건비 계산 등 학습</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
+      <b>데이터베이스 시스템</b>
+    </td>
+    <td align="center"width="80%">
+      <ul>
+        <li>DDL, DCL, DML 등에 대해 학습</li>
+        <li>Join, Outer Join, Inner Join 학습</li>
+        <li>객체 모델링, 동적 모델링, 개념 모델링을 학습</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"width="20%">
+      <b>Introduce to Algorithm</b>
+    </td>
+    <td align="center"width="80%">
+      <ul>
+        <li>자료구조와 알고리즘 정의와 의미의 차이를 학습</li>
+        <li>Time Complexity 계산법에 대해 학습</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="center" width="20%">
+      <b>클라우드 컴퓨팅</b>
+    </td>
+    <td align="center" width="80%">
+      <ul>
+        <li>Docker 사용법 및 k8s를 실습하여 심화 학습 및 응용</li>
+        <li>클라우드단에 사용되는 모놀리식 아키텍처와<br>더 발전된 MSA의 차이점을 학습</li>
+        <li>Scale-up Scale-out등의 기본적인 개념을 학습</li>
+      </ul>
+    </td>
+  </tr>
 </table>
