@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Transparent&text=Jun%27s%20DevelopStation%20%F0%9F%92%BB&fontAlign=&fontSize=40&animation=twinkling&desc=Welcome%20to%20My%20Repository!%20Backend%20Developer%20Mr.Jun&&descAlignY=70&theme=dark&height=150" alt="Jun's DevelopStation Header">
 </p>
 
-<h1>Introduce</h1>
+<h1>Profile</h1>
 <div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
 
 <table align="center" style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-<h2>학력사항 🏫</h2>
+<h1>학력사항 🏫</h1>
 <table align="left" style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
   <tr align="center" style="font-size: 20px;">
     <td>학교명</td>
@@ -53,7 +53,7 @@
   </tr>
 </table>
 <hr>
-<h2 align="left" style="width:100%">교육이력 📑</h2>
+<h1 align="left" style="width:100%">교육이력 📑</h1>
 <table align="left" style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
   <tr align="center"> 
     <td>교육제목</td>
@@ -84,7 +84,7 @@
 
 <br><br><br><br><br><br><br>
                   
-<h2>Tech Stack🧑🏻‍💻</h2>
+<h1>Tech Stack🧑🏻‍💻</h1>
 <div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
 
 <table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
