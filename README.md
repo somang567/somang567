@@ -3,10 +3,10 @@
 </p>
 
 <h1>Introduce</h1>
-<table>
+<table alingn="center">
   <tr>
     <td width="50">
-      <table>
+      <table alingn="center">
         <tr>
           <td style="width:100%;">
             <img src="https://github.com/user-attachments/assets/54c60239-ba98-4aa6-83e0-73d396c620c9" width="150" alt="프로필 사진">
@@ -14,8 +14,8 @@
           <td align="center" style="width:100%;">
             <h4>KIM TAE JUN<h4><hr>
             <h4>1999.09.06<h4><hr>
-            <h4>Email : <a href="mailto:somang567@naver.com" target="_blank"><img src="https://img.shields.io/badge/somang567@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"></a><h4><hr>
-            <h4>Contact : <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/xroawlns-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a><h4>
+            <a href="mailto:somang567@naver.com" target="_blank"><img src="https://img.shields.io/badge/somang567@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"></a><hr>
+            <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/xroawlns-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
           </td>
         </tr>
       </table>
