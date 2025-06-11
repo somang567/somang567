@@ -8,15 +8,15 @@
     <td align="right">
       <img src="https://github.com/user-attachments/assets/54c60239-ba98-4aa6-83e0-73d396c620c9" width="150" alt="프로필 사진">
     </td>
-    <td width="40"></td> <td align="left">
-      <h3>Name : KIM TAE JUN</h3>
-      <h3>Birth: 1999.09.06</h3>
-      <h3>Email : <a href="mailto:somang567@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"></a></h3>
-      <h3>Contact : <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a></h3>
+    <td>
+        Name : KIM TAE JUN <hr><br>
+        Birth: 1999.09.06 <hr><br>
+        Email : <a href="mailto:somang567@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"></a> <hr><br>
+        Contact : <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
     </td>
   </tr>
 </table>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=somang567&theme=swift&show_icons=true">
 <br> <h1>학력사항 🏫</h1>
 <table align="center">
   <tr align="center">
