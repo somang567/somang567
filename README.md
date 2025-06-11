@@ -18,7 +18,7 @@
         <h3>Birth: 1999.09.06</h3>
         <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
       <div style="margin-bottom: 10px;">
-        <h3>Email : <a href="somang567@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"></a></h3>
+        <h3>Email : <a href="mailto:somang567@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"></a></h3>
         <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
       <div style="margin-bottom: 10px;">
         <h3>Contact : <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a></h3>
