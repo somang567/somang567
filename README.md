@@ -8,7 +8,7 @@
 <table align="center" style="width: auto; border: none; border-collapse: collapse; background-color: transparent;">
   <tr>
     <td style="vertical-align: top; padding-right: 20px; border: none; background-color: transparent;">
-      <img src="https://github.com/user-attachments/assets/6097649c-3f20-48dd-99a4-77ba1b930ffc" height="100%" style="border-radius: 10px;" alt="프로필 사진">
+      <img src="https://github.com/user-attachments/assets/54c60239-ba98-4aa6-83e0-73d396c620c9" height="100%" style="border-radius: 10px;" alt="프로필 사진">
     </td>
     <td style="vertical-align: top; text-align: left; border: none; background-color: transparent; padding-left: 20px;">
       <div>
