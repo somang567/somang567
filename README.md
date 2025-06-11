@@ -27,9 +27,11 @@
   </tr>
 </table>
 
-<br> <h1>학력사항 🏫</h1>
-<table>
-  <tr align="center" style="font-size: 20px;">
+<br> 
+
+<h1>학력사항 🏫</h1>
+<table align="center">
+  <tr align="center">
     <td>학교명</td>
     <td>재학기간</td>
     <td>전공</td>
@@ -38,21 +40,21 @@
   <tr align="center">
     <td><p>숭실고등학교</p></td>
     <td><p>2016.03.01 ~ 2019.02.14</p></td>
-    <td><p>-</p></td>
-    <td><p>졸업</p></td>
+    <td>-</td>
+    <td>졸업</td>
   </tr>
    <tr align="center">
-    <td><p>단국대학교(죽전)</p></td>
-    <td><p>2019.03.01 ~ 2024.02.20</p></td>
-    <td><p>컴퓨터공학과</p></td>
-    <td><p>졸업</p></td>
+    <td>단국대학교(죽전)</td>
+    <td>2019.03.01 ~ 2024.02.20</td>
+    <td>컴퓨터공학과</td>
+    <td>졸업</td>
   </tr>
 </table>
 
 <div style="clear: both;"></div>
 
 <h1>교육이력 📑</h1>
-<table>
+<table align="center">
   <tr align="center"> 
     <td>교육제목</td>
     <td>교육기간</td>
@@ -61,21 +63,16 @@
   </tr>
   <tr>
     <td>
-      <p align="center">자바 백엔드 6개월 교육과정</p>
-    </td>
-    <td style="width:45%;">
-      <p align="center">2024.05.27 ~ 2024.11.15</p>
+      자바 백엔드 6개월 교육과정
     </td>
     <td>
-     <ul>
-        <li>Java 기초 문법 학습</li>
-        <li>JSP , JSTL 문법 학습</li>
-        <li>Spring , Springboot 사용법 및 Maven 프로젝트 실습</li>
-        <li>Final Team Project <2030세대를 위한 셀프인테리어서비스></li>
-    </ul>
+      2024.05.27 ~ 2024.11.15
     </td>
     <td>
-      <p align="center">한국정보교육원</p>
+        Java JSP , Spring 학습
+    </td>
+    <td>
+      한국정보교육원
     </td>
   </tr>
 </table>
