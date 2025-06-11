@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-<h2>Tech Stacks ( Emoji )</h2>
+<h2>Tech Stack</h2>
 <div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
 
 <table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
@@ -79,14 +79,18 @@
   </tr>
 </table>
 
-<div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
-<h3>( 기타 학력 및 교육사항 )</h3>
-
-<div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
-<h3>( 레포지토리 stats.. + 기타 통계 API )</h3>
-
-<div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
-<h3>( 프로젝트 Pin )</h3>
+<table style="width:100%;">
+  <tr>
+    <td style="width:20%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent; font-weight:bold;">오픈 소스 소프트웨어로<br>실습하는 소프트웨어 공학</td>
+    <td style="width:80%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
+      <ul>
+        <li>소프트웨어 개발 모델</li>
+        <li>폭포수, 나선형, 프로토타입, 애자일등을 학습</li>
+        <li>스크럼 제품백로그 등 개발 프로세스에 대해 학습</li>
+        <li>개발자 인력에 따른 개발 주기 계산 및 인건비 계산 등 학습</li>
+      </ul>
+    </td>
+  </tr>
 
 <h2>Educational Books📚</h2>
 <table style="width:100%;">
