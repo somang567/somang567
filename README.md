@@ -52,10 +52,8 @@
     <td><p>졸업</p></td>
   </tr>
 </table>
-
-<br><br><br><br>
-
-<h2>교육이력 📑</h2>
+<hr>
+<h2 align="left">교육이력 📑</h2>
 <table align="left" style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
   <tr align="center"> 
     <td>교육제목</td>
@@ -64,13 +62,13 @@
     <td>교육기관</td>
   </tr>
   <tr>
-    <td style="width:50%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent; font-weight:bold;">
+    <td style="width:25%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent; font-weight:bold;">
       <p align="center">자바 백엔드 6개월 교육과정</p>
     </td>
-    <td style="width:30%;">
+    <td style="width:20%;">
       <p align="center">2024.05.27 ~ 2024.11.15</p>
     </td>
-    <td style="width: 20%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
+    <td style="width: 45%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
      <ul>
         <li>Java 기초 문법 학습</li>
         <li>JSP , JSTL 문법 학습</li>
@@ -78,7 +76,7 @@
         <li>Final Team Project <2030세대를 위한 셀프인테리어서비스></li>
     </ul>
     </td>
-    <td style="width: 100%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
+    <td style="width: 10%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
       <p align="center">한국정보교육원</p>
     </td>
   </tr>
