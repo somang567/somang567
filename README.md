@@ -21,7 +21,7 @@
         <h3>Email : somang567@naver.com</h3>
         <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
       <div style="margin-bottom: 10px;">
-        <h3>SNS : <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+        <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
         </h3>
         <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
     </td>
