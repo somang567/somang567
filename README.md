@@ -7,10 +7,10 @@
 
 <table align="center"style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
   <tr>
-    <td style="width:50%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
+    <td style="width: 500px;">
       <img src="https://github.com/user-attachments/assets/6097649c-3f20-48dd-99a4-77ba1b930ffc" width="200px" style="border-radius: 10px; border:none;" alt="프로필 사진">
     </td>
-    <td style="width:50%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent;">
+    <td atyle="width:50%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent;">
       <div style="margin-bottom: 10px;">
         <h3>Name : KIM TAE JUN</h3>
         <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
@@ -21,7 +21,7 @@
         <h3>Email : somang567@naver.com</h3>
         <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
       <div style="margin-bottom: 10px;">
-        <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+        <h3>Contact : <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a></h3>
         </h3>
         <div style="width: 150px; border-bottom: 1px dashed #999;"></div> </div>
     </td>
@@ -89,7 +89,7 @@
 <h3>( 프로젝트 Pin )</h3>
 
 <h2>Educational Books📚</h2>
-<table style="width:100%; >
+<table style="width:100%;">
   <tr>
     <td style="width:20%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent; font-weight:bold;">오픈 소스 소프트웨어로<br>실습하는 소프트웨어 공학</td>
     <td style="width:80%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
@@ -126,6 +126,7 @@
       <ul>
         <li>Docker 사용법 및 k8s를 실습하여 심화 학습 및 응용</li>
         <li>클라우드단에 사용되는 모놀리식 아키텍처와<br>더 발전된 MSA의 차이점을 학습</li>
+        <li>Scale-up Scale-out등의 기본적인 개념을 학습</li>
       </ul>
     </td>
   </tr>
