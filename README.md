@@ -38,8 +38,8 @@
     <td>졸업여부</td>
   </tr>
   <tr align="center">
-    <td><p>숭실고등학교</p></td>
-    <td><p>2016.03.01 ~ 2019.02.14</p></td>
+    <td>숭실고등학교<</td>
+    <td>2016.03.01 ~ 2019.02.14</p></td>
     <td>-</td>
     <td>졸업</td>
   </tr>
@@ -56,10 +56,18 @@
 <h1>교육이력 📑</h1>
 <table align="center">
   <tr align="center"> 
-    <td>교육제목</td>
-    <td>교육기간</td>
-    <td>교육내용</td>
-    <td>교육기관</td>
+    <td>
+      교육제목
+    </td>
+    <td>
+      교육기간
+    </td>
+    <td>
+      교육내용
+    </td>
+    <td>
+      교육기관
+    </td>
   </tr>
   <tr>
     <td>
@@ -80,52 +88,39 @@
 <br>
           
 <h1>Tech Stack🧑🏻‍💻</h1>
-<div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
-
-<table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
+<table>
   <tr>
-    <td style="width:50%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
+    <td>
       <h3>✓ Frontend</h3>
-      <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <br>
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstap">
-      </p>
     </td>
-    <td style="width:50%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent;">
+    <td>
       <h3>✓ Backend</h3>
-      <p>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-        <br>
         <img src="https://img.shields.io/badge/SpringBoot-13C100?style=for-the-badge&logo=spring%20boot&logoColor=white" alt="Spring Boot">
         <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
         <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
-      </p>
     </td>
   </tr>
   <tr>
-    <td style="width:50%; vertical-align: top; padding-right: 20px; border:none; background-color:transparent;">
-      <h3>✓ DB</h3>
-      <p>
+    <td>
+      <h3>✓ DB</h3>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
         <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-      </p>
     </td>
-    <td style="width:50%; vertical-align: top; padding-left: 20px; border:none; background-color:transparent;">
+    <td>
       <h3>✓ Tools</h3>
-      <p>
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
         <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
         <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
-        <br>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=black" alt="Notion">
-      </p>
     </td>
   </tr>
 </table>
