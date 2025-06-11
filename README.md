@@ -60,13 +60,13 @@
     <td>교육기관</td>
   </tr>
   <tr>
-    <td style="width:22%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent; font-weight:bold;">
+    <td>
       <p align="center">자바 백엔드 6개월 교육과정</p>
     </td>
     <td style="width:45%;">
       <p align="center">2024.05.27 ~ 2024.11.15</p>
     </td>
-    <td style="width: 15%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
+    <td>
      <ul>
         <li>Java 기초 문법 학습</li>
         <li>JSP , JSTL 문법 학습</li>
@@ -74,7 +74,7 @@
         <li>Final Team Project <2030세대를 위한 셀프인테리어서비스></li>
     </ul>
     </td>
-    <td style="width: 20%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
+    <td>
       <p align="center">한국정보교육원</p>
     </td>
   </tr>
