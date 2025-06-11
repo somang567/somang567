@@ -61,6 +61,7 @@
   </tr>
 </table>
 
+<br>
 
 <h3 align="center">교육이력 📑</h3>
 <table align="center">
