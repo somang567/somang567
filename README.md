@@ -11,18 +11,10 @@
       <img src="https://github.com/user-attachments/assets/54c60239-ba98-4aa6-83e0-73d396c620c9" width="100%" style="border-radius: 10px;" alt="프로필 사진">
     </td>
     <td style="vertical-align: top; text-align: left; border: none; background-color: transparent; padding-left: 20px;">
-      <div>
         <h3>Name : KIM TAE JUN</h3>
-      </div>
-      <div>
         <h3>Birth: 1999.09.06</h3>
-      </div>
-      <div>
         <h3>Email : <a href="mailto:somang567@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver"></a></h3>
-      </div>
-      <div>
         <h3>Contact : <a href="https://www.instagram.com/xroawlns__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a></h3>
-      </div>
     </td>
   </tr>
 </table>
@@ -88,50 +80,41 @@
 <br>
           
 <h1>Tech Stack🧑🏻‍💻</h1>
-<table>
-  <tr>
-    <td>
-      <h3>✓ Frontend</h3>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstap">
-    </td>
-    <td>
-      <h3>✓ Backend</h3>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-        <img src="https://img.shields.io/badge/SpringBoot-13C100?style=for-the-badge&logo=spring%20boot&logoColor=white" alt="Spring Boot">
-        <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">
-        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>✓ DB</h3>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-    </td>
-    <td>
-      <h3>✓ Tools</h3>
-        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-        <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
-        <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=black" alt="Notion">
-    </td>
-  </tr>
+<div style="border-bottom: 1px dashed #666; width: 100%; margin: 10px 0;"></div>
+
+<table align="center" border="0" cellpadding="5" cellspacing="0">
+  <tr> <td valign="top"> <h3>✓ Frontend</h3>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"><br>
+        <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstap">
+    </td>
+    <td valign="top"> <h3>✓ Backend</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"><br>
+        <img src="https://img.shields.io/badge/SpringBoot-13C100?style=for-the-badge&logo=spring%20boot&logoColor=white" alt="Spring Boot"><img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA"><img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
+      </p>
+    </td>
+  </tr>
+  <tr> <td valign="top"> <h3>✓ DB</h3>
+      <p>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+      </p>
+    </td>
+    <td valign="top"> <h3>✓ Tools</h3>
+      <p>
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"><br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=black" alt="Notion">
+      </p>
+    </td>
+  </tr>
 </table>
 
 
 <h2>Educational Books📚</h2>
-<table style="width:100%; border:none; border-collapse:collapse; background-color:transparent;">
+<table>
   <tr>
-    <td style="width:20%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent; font-weight:bold;">오픈 소스 소프트웨어로<br>실습하는 소프트웨어 공학</td>
-    <td style="width:80%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
-      <ul style="list-style-type:none; margin:0; padding-left:0;">
+    <td>오픈 소스 소프트웨어로<br>실습하는 소프트웨어 공학</td>
+    <td></td>
+      <ul>
         <li>소프트웨어 개발 모델</li>
         <li>폭포수, 나선형, 프로토타입, 애자일등을 학습</li>
         <li>스크럼 제품백로그 등 개발 프로세스에 대해 학습</li>
@@ -140,9 +123,9 @@
     </td>
   </tr>
   <tr>
-    <td style="width:20%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent; font-weight:bold;">데이터베이스 시스템</td>
-    <td style="width:80%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
-      <ul style="list-style-type:none; margin:0; padding-left:0;">
+    <td>데이터베이스 시스템</td>
+    <td>
+      <ul>
         <li>DDL, DCL, DML 등에 대해 학습</li>
         <li>Join, Outer Join, Inner Join 학습</li>
         <li>객체 모델링, 동적 모델링, 개념 모델링을 학습</li>
@@ -150,18 +133,18 @@
     </td>
   </tr>
   <tr>
-    <td style="width:20%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent; font-weight:bold;">Introduce to Algorithm</td>
-    <td style="width:80%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
-      <ul style="list-style-type:none; margin:0; padding-left:0;">
+    <td>Introduce to Algorithm</td>
+    <td>
+      <ul>
         <li>자료구조와 알고리즘 정의와 의미의 차이를 학습</li>
         <li>Time Complexity 계산법에 대해 학습</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td style="width:20%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent; font-weight:bold;">클라우드 컴퓨팅</td>
-    <td style="width:80%; vertical-align: top; padding: 5px 0px; border:none; background-color:transparent;">
-      <ul style="list-style-type:none; margin:0; padding-left:0;">
+    <td>클라우드 컴퓨팅</td>
+    <td>
+      <ul>
         <li>Docker 사용법 및 k8s를 실습하여 심화 학습 및 응용</li>
         <li>클라우드단에 사용되는 모놀리식 아키텍처와<br>더 발전된 MSA의 차이점을 학습</li>
         <li>Scale-up Scale-out등의 기본적인 개념을 학습</li>
