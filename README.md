@@ -37,60 +37,7 @@
   </tr>
 </table>
 
-  
 <br> 
-<h3 align="center">학력사항 🏫</h3>
-<table align="center">
-  <tr align="center">
-    <td>학교명</td>
-    <td>재학기간</td>
-    <td>전공</td>
-    <td>졸업여부</td>
-  </tr>
-  <tr align="center" style="font-size:15px;">
-    <td>숭실고등학교</td> 
-    <td>2016.03.01 ~ 2019.02.14</td> 
-    <td>-</td>
-    <td>졸업</td>
-  </tr>
-  <tr align="center" style="font-size:15px;">
-    <td>단국대학교(죽전)</td>
-    <td>2019.03.01 ~ 2024.02.20</td>
-    <td>컴퓨터공학과</td>
-    <td>졸업</td>
-  </tr>
-</table>
-
-<br>
-
-<h3 align="center">교육이력 📑</h3>
-<table align="center">
-  <tr align="center">
-    <td>교육제목</td>
-    <td>교육기간</td>
-    <td>교육내용</td>
-    <td>교육기관</td>
-  </tr>
-  <tr>
-    <td align="center">
-      자바 백엔드 6개월 교육과정
-    </td>
-    <td align="center">
-      2024.05.27 ~ 2024.11.15
-    </td>
-    <td align="center">
-        Java 기초 문법 학습 <br>
-        JSP , JSTL 문법 학습 <br>
-        Spring , Springboot 사용법 및 Maven 프로젝트 실습 <br>
-        팀 프로젝트<2030세대를 위한 셀프인테리어서비스>
-    </td>
-    <td align="center">
-      한국정보교육원
-    </td>
-  </tr>
-</table>
-
-<br>
 
 <h3 align="center">Projects 🔥</h3>
 
