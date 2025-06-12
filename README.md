@@ -44,7 +44,7 @@
 <table align="center">
 <tr>
   <td>
-    <a href="https://github.com/somang567/InteriorProjects](https://github.com/somang567/interiorProject">
+    <a href="https://github.com/somang567/InteriorProject">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=somang567&repo=interiorProject&theme=dracula" alt="interiorProject"/>
 </a>
     
