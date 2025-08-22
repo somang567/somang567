@@ -55,6 +55,11 @@
   <a href="https://github.com/somang567/SpringLearning">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=somang567&repo=SpringLearning&theme=dracula" alt="SpringLearning"/>
   </a>
+  
+  <a href="https://github.com/somang567/Astronomy_Education">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=somang567&repo=Astronomy_Education&theme=dracula" alt="Astronomy_Education"/>
+  </a>
+  
   </td>
 </tr>
 </table>
