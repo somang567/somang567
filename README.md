@@ -57,7 +57,7 @@
   </a>
   
   <a href="https://github.com/somang567/Astronomy_Education">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=somang567&repo=Astronomy_Education&theme=dracula" alt="Astronomy_Education"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=somang567&repo=Astronomy_Education&theme=dracula" alt="Astronomy_Educationmn"/>
   </a>
   
   </td>
